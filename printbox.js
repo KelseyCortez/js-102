@@ -15,4 +15,4 @@ function printBox(height, width) {
 
 }
 
-printBox(7, 5);
+printBox(7, 9);
